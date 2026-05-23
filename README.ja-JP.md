@@ -335,7 +335,7 @@ UI のロケールはモデルの言語とは別です。`settings.toml` で `lo
 
 レガシーエイリアス `deepseek-chat` / `deepseek-reasoner` は `deepseek-v4-flash` にマップされます。NVIDIA NIM のバリアントはあなたの NVIDIA アカウント条件に従います。
 
-*DeepSeek Pro の料金は現在、期間限定で 75% の割引が適用されており、2026 年 5 月 31 日 15:59 UTC まで有効です。それ以降、TUI のコスト見積もりは Pro の通常料金に戻ります。*
+**DeepSeek Pro の料金は現在、恒久的な 75% 割引が適用されています。TUI のコスト見積もりは、この恒久割引価格を継続して表示します。*
 
 ---
 
