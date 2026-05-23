@@ -465,7 +465,7 @@ Legacy aliases `deepseek-chat` / `deepseek-reasoner` map to `deepseek-v4-flash` 
 *DeepSeek Pro rates now reflect a permanent 75% discount. The TUI cost estimator will continue to display these permanently discounted Pro rates.*
 
 > [!Note]
-> DeepSeek-V4-Pro was previously offered at a 75% discount originally scheduled to end at 15:59 UTC on 31 May 2026. This discount has now been made permanent. For the latest pricing, please consult the official [DeepSeek pricing page](https://api-docs.deepseek.com/zh-cn/quick_start/pricing). All rates listed in the README correspond to the officially published values.
+> DeepSeek-V4-Pro was previously offered at a 75% discount originally scheduled to end at 15:59 UTC on 31 May 2026. This discount has now been made permanent. For the latest pricing, please consult the official [DeepSeek pricing page](https://api-docs.deepseek.com/quick_start/pricing). All rates listed in the README correspond to the officially published values.
 ---
 
 ## Publishing Your Own Skill
